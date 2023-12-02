@@ -1,2 +1,2 @@
 # estudos_Java
-Alguns estudos com a linguagem Java
+Estudos com a linguagem Java
